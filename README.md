@@ -1,6 +1,8 @@
 # RAW2FITS
 Just another tool to convert consumer digital cameras RAW images to FITS.
 
+Maintained by [Hadrien Devillepoix](https://github.com/hdevillepoix)
+
 Designed for speed (<1s per 50MB image).
 
 Made for the Desert Fireball Network data processing pipeline.
