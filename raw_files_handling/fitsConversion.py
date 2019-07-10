@@ -60,7 +60,7 @@ except ImportError:
     import netPbm
     RAW_HANDLING_LIB = 'DCRAW'
     
-import dfn_utils
+import dfn_lib.dfn_utils as dfn_utils
 
 # check python version
 if sys.version_info < (3, 0):
